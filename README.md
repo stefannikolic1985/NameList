@@ -2,7 +2,7 @@
 A console application that manage persons in a list.
 
 ## About
-Program was made as a school project in the course "Introduction to Programming in C++".
+The program is developed as a school projec at the course "Introduction to Programming in C++".
 
 ## Features 
 
